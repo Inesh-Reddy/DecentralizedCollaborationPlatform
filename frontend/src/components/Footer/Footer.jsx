@@ -1,12 +1,6 @@
 const Footer = () => {
   return (
     <div
-      // style={{
-      //   display: "flex",
-      //   justifyContent: "center",
-      //   border: "2px solid black",
-      //   borderRadius: "5px",
-      // }}
       style={{
         display: "flex",
         justifyContent: "center",
